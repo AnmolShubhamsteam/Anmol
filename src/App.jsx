@@ -315,7 +315,7 @@ function App() {
               <div className="pl-24 mt-24 relative before:w-4 before:h-4 before:bg-gradient-to-t before:from-blue-500 before:to-cyan-500 before:absolute before:rounded-full before:left-[58px]">
                 <h3 className="absolute left-0 text-lg font-semibold">2023</h3>
                 <p>
-                  Worked as an intern in KMP pvt ltd.Worked with a team of 5 people in developing website for the company.
+                  Build projects using Django, Tailwind CSS, HTMX and JavaScript.
                 </p>
               </div>
               <div className="pl-24 mt-24 relative before:w-4 before:h-4 before:bg-gradient-to-t before:from-blue-500 before:to-cyan-500 before:absolute before:rounded-full before:left-[58px]">
